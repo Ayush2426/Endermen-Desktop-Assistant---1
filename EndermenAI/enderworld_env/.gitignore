@@ -1,0 +1,37 @@
+*Lib
+*.git
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.git
+# Virtual environment
+mp_venv/
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# PyCharm / JetBrains settings
+.idea/
+
+# Logs
+*.log
+
+# Python build/packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment variables
+.env
+*.env

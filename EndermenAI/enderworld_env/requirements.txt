@@ -1,0 +1,9 @@
+speechrecognition
+wikipedia
+openai
+portaudio
+pywin32
+pyttsx3
+pyaudio
+
+# Any issues with libraries can be resolved from the origin of unofficial python binaries/libraries
